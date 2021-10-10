@@ -1,4 +1,7 @@
-# Base de datos Cinepolis (El archivo CINEPOLIS.zip contienen todo lo necesario de la base de datos)
+# Base de datos Cinepolis 
+
+# *(El archivo CINEPOLIS.zip contienen todo lo necesario para el funcionamiento la base de datos)* 
+
 Modelado y gestión de una base de datos desde cero para realizar una base de un cine tomando de referencia la empresa Cinépolis
 
 Creación de Modelos entidad-relación en DIA y Oracle Developer.
