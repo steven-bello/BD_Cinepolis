@@ -40,6 +40,10 @@ CURSOR
 
 ![image](https://user-images.githubusercontent.com/91923931/136712519-96a321d8-70e7-4bcf-9451-4c2f6399e1a0.png)
 
+Insercción de registros en la base para todas las tablas de la base
+
+![image](https://user-images.githubusercontent.com/91923931/136713570-81fe2cb6-88f6-4b0e-b0cc-74140052f8e0.png)
+
 Troubleshotting y documentación del proyecto.
 
 [PROYECTO_FINAL.pdf](https://github.com/steven-bello/BD_Cinepolis/files/7318198/PROYECTO_FINAL.pdf)
