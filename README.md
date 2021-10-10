@@ -8,7 +8,7 @@ Creación de Modelos entidad-relación en DIA y Oracle Developer.
 
 ![CINEPOLIS](https://user-images.githubusercontent.com/91923931/136712179-c068497d-c49e-4db2-83dc-b1aebbb68205.png)
 
-![CINEPOLIS_DEV](https://user-images.githubusercontent.com/91923931/136712273-33dc0e4f-def0-40d0-8ffc-fd39d5767f72.png)
+![CINEPOLIS](https://user-images.githubusercontent.com/91923931/136712790-f1730ea2-3cd9-448b-83bd-474c5b3d9c8b.png)
 
 [CINEPOLIS.pdf](https://github.com/steven-bello/BD_Cinepolis/files/7318193/CINEPOLIS.pdf)
 
